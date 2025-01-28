@@ -7,7 +7,7 @@ Organizar vida Financeira com Planilhas Inteligentes.
 - Microsoft Excel para criar a arte visual e edição.
 
 ## 🧐 Processo de Criação
-
+Planilha básica com Dashboard mostrando Entradas e Saídas utilizando ferremantas do Microsoft Excel.
 
 ## 🚀 Resultados
 Planilha básica com Dashboard mostrando Entradas e Saídas.
