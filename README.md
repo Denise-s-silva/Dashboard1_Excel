@@ -11,6 +11,6 @@ Organizar vida Financeira com Planilhas Inteligentes.
 
 ## 🚀 Resultados
 Planilha básica com Dashboard mostrando Entradas e Saídas.
-[LINK PARA A PLANILHA AQUI]([https://github.com/Denise-s-silva/Motherhood/blob/main/E-book-Organizacao-para-Maes-que-Trabalham-em-Casa.pdf](https://github.com/Denise-s-silva/Dashboard1_Excel/blob/main/DIO_Planilha%20Inteligente%20e%20IA.xlsx)
+[LINK PARA A PLANILHA AQUI](https://github.com/Denise-s-silva/Dashboard1_Excel/blob/main/DIO_Planilha%20Inteligente%20e%20IA.xlsx)
 
 
